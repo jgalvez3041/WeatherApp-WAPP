@@ -1,0 +1,17 @@
+{
+  "name": "boiler_vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "sass": "^1.32.11",
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.2.0"
+  }
+}
